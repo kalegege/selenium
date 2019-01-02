@@ -1,0 +1,4 @@
+
+set PATH=%PATH%;C:\Users\viruser.v-desktop\AppData\Local\Google\Chrome\Application
+
+D:\workspace\selenium\venv\Scripts\python test.py
